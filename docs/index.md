@@ -1,14 +1,14 @@
 # Splunk Connect for SNMP
 
 Splunk welcomes your experimentation and feedback. Let your
-account team knows you are testing Splunk Connect for SNMP.
+account team know that you are testing Splunk Connect for SNMP.
 
-Splunk Connect for SNMP is an edge-deployed, containerized, and highly
-available solution for collecting SNMP data for Splunk Enterprise,
-Splunk Enterprise Cloud and Splunk Infrastructure Monitoring.
+Splunk Connect for SNMP collects SNMP data for Splunk Enterprise,
+Splunk Enterprise Cloud, and Splunk Infrastructure Monitoring. The Splunk Connect for SNMP is an edge-deployed, containerized, and highly
+available solution. 
 
-SC4SNMP provides context-full information - not only forwards SNMP data to Splunk, but also combines 
-all of pieces into the meaningful objects. For example, you don't need to write queries in order to gather the information about
+SC4SNMP provides context-full information - it not only forwards SNMP data to Splunk, but it also combines 
+different pieces into meaningful objects. For example, you don't need to write queries in order to gather information about the
 interfaces of the device, because SC4SNMP does that automatically:
 
 [![Interface metrics](images/interface_metrics.png)](images/interface_metrics.png)
